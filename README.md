@@ -12,6 +12,6 @@ About me? There is nothing.
 ### Discord
 <p align="center">
   <br/>
-  <a href="https://discord.com/users/"><img alt="iFluxo's Github Stats" src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Maybe+AFK+!&theme=light&bg=E0E3FF&borderRadius=10px" height="192px"/></a>
+  <a href="https://discord.com/users/"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Maybe+AFK+!&theme=light&bg=E0E3FF&borderRadius=10px" height="192px"/></a>
   <br/>
 </p>
