@@ -1,4 +1,5 @@
 ## Hi, Welcome! 👋🏻
+<!--
 <p align="center">
   <br/>
   <a href="#"><img alt="iFluxo's" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iFluxo&theme=transparent&animation=rgb-soft&title_color=ff0000&text_color=ffffff&border_color=ff0000&icon_color=ff0000&chart_color=ff0000" height="192px"/></a>
@@ -13,11 +14,12 @@
   <a href="#github-stats"><img alt="iFluxo's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iFluxo&langs_count=8&layout=compact&theme=react&bg_color=00000000&title_color=E0E3FF&icon_color=2d7de4&border_color=E0E3FF&border_radius=10" height="192px"/></a>
   <br/>
 </p>
-
+-->
 ### Contact
 <p align="center">
-  Discord <code>@fluxovoid</code>
+  — Discord: <a href=""><code>@fluxovoid</code></a>
   <br/>
-  <a href="https://discord.com/users/"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Maybe+AFK+!&theme=light&bg=E0E3FF&borderRadius=10px" height="192px"/></a>
+  <br/>
+  <a href="https://discord.com/users/561170896480501790"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Just+do+it!&theme=light&bg=E0E3FF&borderRadius=10px" height="192px"/></a>
   <br/>
 </p>
