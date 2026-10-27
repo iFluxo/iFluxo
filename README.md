@@ -17,7 +17,7 @@
 -->
 ### Contact
 <p align="center">
-  — Discord: <a href=""><code>@fluxovoid</code></a>
+  — Discord: <a href="https://discord.com/users/561170896480501790"><code>@fluxovoid</code></a>
   <br/>
   <br/>
   <a href="https://discord.com/users/561170896480501790"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Just+do+it!&theme=light&bg=E0E3FF&borderRadius=10px" height="192px"/></a>
