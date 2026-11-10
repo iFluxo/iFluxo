@@ -6,8 +6,6 @@
 
 <div align="center">
 
-  <img src="https://github.com/iFluxo.png?size=160" width="96" height="96" alt="Fluxo" />
-
   <h1>Hi, I'm Fluxo 👋</h1>
 
   <p>
