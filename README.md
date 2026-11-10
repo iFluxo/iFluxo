@@ -61,7 +61,7 @@
 <p align="center">
   <a href="https://discord.com/users/561170896480501790">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/561170896480501790?theme=dark&amp;bg=0d1117&amp;borderRadius=12px&amp;idleMessage=Probably%20building%20something..." />
+      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Just+do+it!&theme=light&bg=E0E3FF&borderRadius=10px" />
       <img src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=Just+do+it!&theme=light&bg=E0E3FF&borderRadius=10px" alt="Discord presence for fluxovoid" height="180" />
     </picture>
   </a>
